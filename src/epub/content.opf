@@ -98,6 +98,17 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="preface.xhtml"/>
+		<itemref idref="act-1-1.xhtml"/>
+		<itemref idref="act-1-2.xhtml"/>
+		<itemref idref="act-4-1.xhtml"/>
+		<itemref idref="act-4-2.xhtml"/>
+		<itemref idref="act-4-3.xhtml"/>
+		<itemref idref="part-1.xhtml"/>
+		<itemref idref="part-2.xhtml"/>
+		<itemref idref="part-3.xhtml"/>
+		<itemref idref="part-4.xhtml"/>
+		<itemref idref="part-5.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
