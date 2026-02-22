@@ -37,12 +37,12 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">Five linked plays about human longetivity and governance.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p>In the Garden of Eden</p>
-			<p>In the early twentieth century</p>
-			<p>In the year 2170</p>
-			<p>In the year 3000</p>
-			<p>In the farthest future, the year 31,920,</p>
-			<p><a href="https://standardebooks.org/ebooks/george-bernard-shaw">George Bernard Shaw's</a> series of five linked plays was published in one volume in 1921, first performed in 1922 in New York, staged multiple times in the twentieth century, and adapted for radio multiple times. When it is staged, it tends to be split across multiple evenings or heavily abridged. Some critics have argued that it was intended to be read, and in a lengthy preface, Shaw discusses the need of humans to learn to live longer and gain more wisdom to be able to govern effectively. Shaw writes that the purpose of the book is to "homeopathically educate" the population against Darwinist thinking in choosing their political leaders, arguing against Darwinian evolution (and the systems of scientific thought and education that have led to its wide acceptance) on one hand and against the church (and their doctrine of an all-powerful creator) on the other. Instead, he presents arguments for Lamarckian view of evolution based on his ideas about the Life Force that he previously explored in <a href="https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman"><i>Man and Superman</i></a> and for the importance of intentionally striving rather than accepting that outcomes are down to chance.</p>
+			&lt;p&gt;It is 4004 BC. In the Garden of Eden, Adam and Eve discover death, and a serpent teaches them what it is to conceive new life.&lt;/p&gt;
+			&lt;p&gt;It is the early twentieth century.&lt;/p&gt;
+			&lt;p&gt;It is the year 2170.&lt;/p&gt;
+			&lt;p&gt;It is the year 3000&lt;/p&gt;
+			&lt;p&gt;It is the farthest future, the year 31,920,&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw's&lt;/a&gt; series of five linked plays was published in one volume in 1921, first performed in 1922 in New York, staged multiple times in the twentieth century, and adapted for radio multiple times. When it is staged, it tends to be split across multiple evenings or heavily abridged. Some critics have argued that it was intended to be read, and in a lengthy preface, Shaw discusses the need of humans to learn to live longer and gain more wisdom to be able to govern effectively. Shaw writes that the purpose of the book is to "homeopathically educate" the population against Darwinist thinking in choosing their political leaders, arguing against Darwinian evolution (and the systems of scientific thought and education that have led to its wide acceptance) on one hand and against the church (and their doctrine of an all-powerful creator) on the other. Instead, he presents arguments for Lamarckian view of evolution based on his ideas about the Life Force that he previously explored in &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman"&gt;&lt;i&gt;Man and Superman&lt;/i&gt;&lt;/a&gt; and for the importance of intentionally striving rather than accepting that outcomes are down to chance.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13084</dc:source>
