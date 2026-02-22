@@ -30,6 +30,10 @@
 			<reason>Initialism in title.</reason>
 		</ignore>
 		<ignore>
+			<code>t-041</code>
+			<reason>Punctuation used as dialogue.</reason>
+		</ignore>
+		<ignore>
 			<code>y-001</code>
 			<reason>Manually checked.</reason>
 		</ignore>
