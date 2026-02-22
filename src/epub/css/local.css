@@ -138,13 +138,6 @@ abbr[epub|type~="z3998:stage-direction"]::after{
 }
 /* End Dramatis Personae */
 
-/* Footer */
-footer{
-	margin-top: 1em;
-	text-align: right;
-}
-/* End Footer */
-
 /* Verse blockquotes */
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
@@ -162,20 +155,16 @@ footer{
 }
 /* End verse blockquotes */
 
-/* Editorial stage directions */
-[epub|type~="z3998:stage-direction"].editorial::before{
-	content: "[";
-}
-
-[epub|type~="z3998:stage-direction"].editorial::after{
-	content: "]";
-}
-/* End editorial stage directions */
-
 /* Page breaks after part headers */
-#part-2 header,
-#part-3 header,
-#part-5 header{
+#part-2 hgroup,
+#part-3 hgroup,
+#part-5 hgroup{
 	break-after: page;
 }
 /* End page breaks after part headers */
+
+/* Miscellanea */
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+/* End miscellanea */
