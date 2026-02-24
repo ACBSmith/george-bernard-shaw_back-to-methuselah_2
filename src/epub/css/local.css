@@ -133,4 +133,8 @@ tr.together td + td{
 abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
+
+p[epub|type~="subtitle"]{
+	font-size: 1.17em;
+}
 /* End miscellanea */
