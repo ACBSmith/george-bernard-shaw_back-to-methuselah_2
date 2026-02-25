@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/george-bernard-shaw/back-to-methuselah</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-02-25T16:23:27Z</dc:date>
+		<meta property="dcterms:modified">2026-02-25T16:23:27Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,18 +44,19 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">Five linked plays about human longetivity and governance.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;It is 4004 BC. In the Garden of Eden, Adam and Eve discover death, and a serpent teaches them what it is to conceive new life.&lt;/p&gt;
-			&lt;p&gt;It is the early twentieth century. The brothers Barnabas are discussing the political need for people to live three centuries when the leaders of the Liberal party arrive to convince Franklyn to run for Parliament and support them.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw’s&lt;/a&gt; published this series of five linked plays in a single volume in 1921. It was first performed in 1922 in New York.&lt;/p&gt;
+			&lt;p&gt;We begin in the year 4004 BC. In the Garden of Eden, Adam and Eve discover death, and a serpent teaches them what it is to conceive new life.&lt;/p&gt;
+			&lt;p&gt;It is the early twentieth century. The brothers Barnabas are discussing the political need for people to live for three centuries when the leaders of the Liberal party arrive to convince one of them to run for Parliament.&lt;/p&gt;
 			&lt;p&gt;It is the year 2170. British public services are provided so effectively by the Chinese that government has become largely ceremonial and Parliament full of the insane. Life expectancy is 78, the public are expected to work from the age of 13 through to retirement at 43, and the Accountant General discovers that the Archbishop is 283 years old.&lt;/p&gt;
-			&lt;p&gt;It is the year 3000. An elderly short-lived man is visiting Ireland from Baghdad, the capitol of the British Commonwealth, with the British Prime Minister and the Emperor of Turania who have come to ask for advice from the Oracle. He finds that despite all involved speaking English, he cannot communicate with the long-lived population that live there and their significantly changed culture and he is at risk of dying from discouragement.&lt;/p&gt;
-			&lt;p&gt;It is the farthest future, the year 31,920. In idyllic surroungings, people hatch from eggs physically mature, spend four years in a childhood of playing and dancing and sport, and then live for an eternity, changing their physical forms as they wish. A new child is born, a Festival of Art is held, and a youth has discovered how to breath life into artifical humans.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw’s&lt;/a&gt; series of five linked plays was published in one volume in 1921, first performed in 1922 in New York, staged multiple times in the twentieth century, and adapted for radio multiple times. When it is staged, it tends to be split across multiple evenings or heavily abridged. Some critics have argued that it was intended to be read, and in a lengthy preface, Shaw discusses the need of humans to learn to live longer and gain more wisdom to be able to govern effectively. Shaw writes that the purpose of the book is to “homeopathically educate” the population against Darwinist thinking in choosing their political leaders, arguing against Darwinian evolution (and the systems of scientific thought and education that have led to its wide acceptance) on one hand and against the church (and their doctrine of an all-powerful creator) on the other. Instead, he presents arguments for Lamarckian view of evolution based on his ideas about the Life Force that he previously explored in &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman"&gt;&lt;i&gt;Man and Superman&lt;/i&gt;&lt;/a&gt; and for the importance of intentionally striving rather than accepting that outcomes are down to chance.&lt;/p&gt;
+			&lt;p&gt;It is the year 3000. An elderly short-lived man is visiting Ireland from Baghdad, the capitol of the British Commonwealth, with the British Prime Minister and the Emperor of Turania, who have come to ask for advice from the Oracle. He finds that even though everyone speaks the same language, he can’t communicate with the local long-lived population.&lt;/p&gt;
+			&lt;p&gt;It is the farthest future, the year 31,920. In idyllic surroundings people hatch, physically mature, from eggs, spend four years playing and dancing, and then live for an eternity, changing their physical forms as they wish. A new child is born, a Festival of Art is held, and a youth has discovered how to breath life into artificial humans.&lt;/p&gt;
+			&lt;p&gt;When staged, &lt;i&gt;Back to Methuselah&lt;/i&gt; tends to be split across multiple evenings, or is heavily abridged; some critics have argued that it was intended to be read and not staged. In a lengthy preface Shaw discusses the need for humans to learn to live longer and to gain more wisdom to be able to govern effectively. In it he argues against both the theory Darwinian evolution and the church, writing that the purpose of the plays is to “homeopathically educate” the population against Darwinist thinking when choosing their political leaders. His counterarguments are the Lamarckian view of evolution, his concept of the Life Force (which he previously explored in &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw/man-and-superman"&gt;&lt;i&gt;Man and Superman&lt;/i&gt;&lt;/a&gt;), and the importance of intentionally striving rather than accepting outcomes as down to chance.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13084</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.208046</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">112506</meta>
+		<meta property="se:reading-ease.flesch">65.83</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Back_to_Methuselah</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_back-to-methuselah</meta>
 		<dc:creator id="author">George Bernard Shaw</dc:creator>
@@ -84,6 +85,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
