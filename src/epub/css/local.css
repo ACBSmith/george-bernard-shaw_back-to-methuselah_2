@@ -137,4 +137,12 @@ abbr[epub|type~="se:era"]{
 p[epub|type~="subtitle"]{
 	font-size: 1.17em;
 }
+
+/* Simulate `h3`. */
+section[epub|type~="z3998:dramatis-personae"] header{
+	font-size: 1.17em;
+	font-variant: small-caps;
+	font-weight: bold;
+	margin-top: 3em;
+}
 /* End miscellanea */
